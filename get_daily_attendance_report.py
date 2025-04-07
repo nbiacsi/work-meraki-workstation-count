@@ -12,7 +12,6 @@ from datetime import date, timedelta
 import os
 from statistics import mean
 
-
 from reports import Report
 
 
